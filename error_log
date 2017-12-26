@@ -1,0 +1,2 @@
+[22-Dec-2017 17:10:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/amyalgtz/public_html/www.wallsbarbershop.com.mx/php/mail/sendMessage.php on line 27
+[22-Dec-2017 17:13:18 America/Chicago] PHP Fatal error:  Call to undefined function msgHTML() in /home3/amyalgtz/public_html/www.wallsbarbershop.com.mx/php/mail/sendMessage.php on line 27
